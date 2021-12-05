@@ -1,1 +1,0 @@
-Run "sh run.sh" in terminal to start! 
