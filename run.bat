@@ -1,6 +1,4 @@
-@echo off
-
-pip install tornado
-npm init -y
-python server.py
-echo y|npx electron .
+call pip install tornado
+call npm init -y
+start python server.py
+call echo y|npx electron .
